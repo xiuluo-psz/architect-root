@@ -1,0 +1,13 @@
+server:
+  port: 9001
+
+spring:
+  application:
+    name: architect-order
+  cloud:
+    nacos:
+      server-addr: 8.141.58.82:8848
+      discovery:
+        username: nacos
+        password: nacos
+        namespace: public

@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: architect-order
+  cloud:
+    nacos:
+      config:
+        server-addr: 8.141.58.82:8848
+        file-extension: yaml

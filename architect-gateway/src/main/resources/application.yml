@@ -1,0 +1,31 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: architect-gateway
+  cloud:
+    nacos:
+      server-addr: 8.141.58.82:8848
+      discovery:
+        username: nacos
+        password: nacos
+        namespace: public
+    sentinel:
+      transport:
+#        dashboard: 8.141.58.82:8858
+        dashboard: 127.0.0.1:8858
+    gateway:
+      routes:
+        - id: order-path
+          uri: lb://architect-order
+          predicates:
+            - Path=/order/**
+          filters:
+            - StripPrefix=1
+        - id: stock-path
+          uri: lb://architect-stock
+          predicates:
+            - Path=/stock/**
+          filters:
+            - StripPrefix=1

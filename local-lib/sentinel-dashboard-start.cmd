@@ -1,0 +1,1 @@
+java -Dserver.port=8858 -Dsentinel.dashboard.auth.username=psz -Dsentinel.dashboard.auth.password=psz -jar ./sentinel-dashboard-1.8.0.jar
