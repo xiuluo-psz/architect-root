@@ -1,0 +1,3 @@
+-javaagent:C:\Users\hwgzp\architectSource\apache-skywalking-apm-bin-es7\agent\skywalking-agent.jar
+ -DSW_AGENT_NAME=architect-gateway
+ -DSW_AGENT_COLLECTOR_BACKEND_SERVICES=127.0.0.1:11800
