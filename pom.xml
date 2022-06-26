@@ -3,11 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <modules>
-<!--        <module>order</module>-->
-<!--        <module>stock</module>-->
         <module>architect-gateway</module>
         <module>architect-order</module>
         <module>architect-stock</module>
+        <module>architect-oauth</module>
     </modules>
 
     <!-- 依据公司 -->
