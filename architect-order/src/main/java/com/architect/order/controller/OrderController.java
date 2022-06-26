@@ -19,9 +19,13 @@ public class OrderController {
     @Value("${server.port}")
     public int port;
 
-    // Nacos配置的信息
+    // Nacos配置的信息，从architect-order.yaml获取
     @Value("${projectName}")
     public String projectName;
+
+    // Nacos配置的信息，从共享文件architect-common.yaml获取
+    @Value("${share.name}")
+    public String shareName;
 
     @Autowired
     StockFeignService stockFeignService;
@@ -32,7 +36,7 @@ public class OrderController {
     @RequestMapping("nacosCfg")
     public String getNacosCfg() {
 
-        return projectName;
+        return projectName + " | " + shareName;
     }
 
     @RequestMapping("/add")

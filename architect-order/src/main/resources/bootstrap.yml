@@ -6,3 +6,6 @@ spring:
       config:
         server-addr: 8.141.58.82:8848
         file-extension: yaml
+        shared-configs:
+          - data-id: architect-common.yaml
+            refresh: true
