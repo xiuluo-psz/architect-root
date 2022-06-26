@@ -6,7 +6,7 @@
         <module>architect-gateway</module>
         <module>architect-order</module>
         <module>architect-stock</module>
-        <module>architect-oauth</module>
+<!--        <module>architect-oauth</module>-->
     </modules>
 
     <!-- 依据公司 -->
