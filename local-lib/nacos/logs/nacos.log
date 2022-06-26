@@ -1,0 +1,40 @@
+2022-06-13 00:05:21,855 INFO [capacityManagement] start correct usage
+
+2022-06-13 00:05:21,863 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-06-13 00:05:22,498 WARN clearConfigHistory start
+
+2022-06-13 00:05:22,498 WARN clearConfigHistory, getBeforeStamp:2022-05-14 00:05:22.0, totalCount:4, pageSize:1000, removeTime:1
+
+2022-06-13 00:15:21,864 INFO [capacityManagement] start correct usage
+
+2022-06-13 00:15:21,866 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-06-13 00:15:22,506 WARN clearConfigHistory start
+
+2022-06-13 00:15:22,507 WARN clearConfigHistory, getBeforeStamp:2022-05-14 00:15:22.0, totalCount:4, pageSize:1000, removeTime:1
+
+2022-06-13 00:25:21,875 INFO [capacityManagement] start correct usage
+
+2022-06-13 00:25:21,876 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-06-13 00:25:22,514 WARN clearConfigHistory start
+
+2022-06-13 00:25:22,518 WARN clearConfigHistory, getBeforeStamp:2022-05-14 00:25:22.0, totalCount:4, pageSize:1000, removeTime:1
+
+2022-06-13 00:35:21,883 INFO [capacityManagement] start correct usage
+
+2022-06-13 00:35:21,889 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-06-13 00:35:22,522 WARN clearConfigHistory start
+
+2022-06-13 00:35:22,523 WARN clearConfigHistory, getBeforeStamp:2022-05-14 00:35:22.0, totalCount:4, pageSize:1000, removeTime:1
+
+2022-06-13 00:45:21,896 INFO [capacityManagement] start correct usage
+
+2022-06-13 00:45:21,897 INFO [capacityManagement] end correct usage, cost: 0s
+
+2022-06-13 00:45:22,528 WARN clearConfigHistory start
+
+2022-06-13 00:45:22,536 WARN clearConfigHistory, getBeforeStamp:2022-05-14 00:45:22.0, totalCount:4, pageSize:1000, removeTime:1
+

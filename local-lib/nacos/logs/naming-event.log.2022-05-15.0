@@ -1,0 +1,76 @@
+2022-05-15 01:16:49,700 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+
+2022-05-15 11:03:14,355 INFO DEFAULT_GROUP@@stock-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.150.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 11:03:14,357 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@stock-service, ips: 192.168.150.1:9002_true,
+
+2022-05-15 11:33:06,813 INFO DEFAULT_GROUP@@stock-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.150.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 11:33:06,813 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@stock-service, ips: 
+
+2022-05-15 11:33:26,085 INFO DEFAULT_GROUP@@stock-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.150.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 11:33:26,085 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@stock-service, ips: 192.168.150.1:9002_true,
+
+2022-05-15 11:45:08,451 INFO DEFAULT_GROUP@@stock-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.150.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 11:45:08,451 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@stock-service, ips: 
+
+2022-05-15 11:45:30,385 INFO DEFAULT_GROUP@@stock-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.150.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 11:45:30,385 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@stock-service, ips: 192.168.150.1:9002_true,
+
+2022-05-15 11:46:19,467 INFO DEFAULT_GROUP@@stock-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.150.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 11:46:19,467 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@stock-service, ips: 
+
+2022-05-15 11:46:37,805 INFO DEFAULT_GROUP@@stock-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.150.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 11:46:37,805 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@stock-service, ips: 192.168.150.1:9002_true,
+
+2022-05-15 11:47:42,686 INFO DEFAULT_GROUP@@stock-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.150.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 11:47:42,687 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@stock-service, ips: 
+
+2022-05-15 11:48:01,524 INFO DEFAULT_GROUP@@stock-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.150.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 11:48:01,524 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@stock-service, ips: 192.168.150.1:9002_true,
+
+2022-05-15 11:51:08,483 INFO DEFAULT_GROUP@@stock-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.150.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 11:51:08,483 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@stock-service, ips: 
+
+2022-05-15 11:51:28,411 INFO DEFAULT_GROUP@@stock-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.150.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 11:51:28,411 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@stock-service, ips: 192.168.150.1:9002_true,
+
+2022-05-15 12:09:56,853 INFO DEFAULT_GROUP@@stock-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.150.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 12:09:56,853 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@stock-service, ips: 
+
+2022-05-15 12:10:15,737 INFO DEFAULT_GROUP@@stock-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.150.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 12:10:15,737 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@stock-service, ips: 192.168.150.1:9002_true,
+
+2022-05-15 12:11:12,006 INFO DEFAULT_GROUP@@stock-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.150.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 12:11:12,006 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@stock-service, ips: 
+
+2022-05-15 12:11:32,335 INFO DEFAULT_GROUP@@stock-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.150.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 12:11:32,335 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@stock-service, ips: 192.168.150.1:9002_true,
+
+2022-05-15 12:16:35,481 INFO DEFAULT_GROUP@@stock-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.150.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 12:16:35,481 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@stock-service, ips: 
+
+2022-05-15 12:16:56,461 INFO DEFAULT_GROUP@@stock-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.150.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 12:16:56,462 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@stock-service, ips: 192.168.150.1:9002_true,
+
+2022-05-15 12:30:19,522 INFO DEFAULT_GROUP@@stock-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.150.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-15 12:30:19,522 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@stock-service, ips: 
+
+2022-05-15 12:34:24,827 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+

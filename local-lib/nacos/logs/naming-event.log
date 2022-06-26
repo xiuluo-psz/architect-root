@@ -1,0 +1,24 @@
+2022-06-13 00:40:31,284 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.150.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-06-13 00:40:31,284 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2022-06-13 00:44:06,351 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.150.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-06-13 00:44:06,351 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.150.1:9001_true,
+
+2022-06-13 00:47:14,113 INFO DEFAULT_GROUP@@stock-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.150.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-06-13 00:47:14,113 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@stock-service, ips: 
+
+2022-06-13 00:47:36,710 INFO DEFAULT_GROUP@@stock-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.150.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-06-13 00:47:36,710 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@stock-service, ips: 192.168.150.1:9002_true,
+
+2022-06-13 00:50:30,858 INFO DEFAULT_GROUP@@stock-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.150.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-06-13 00:50:30,858 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@stock-service, ips: 
+
+2022-06-13 00:50:30,897 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.150.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-06-13 00:50:30,897 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+

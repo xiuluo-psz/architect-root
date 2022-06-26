@@ -1,0 +1,4 @@
+2022-06-13 00:42:41,727 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@order-service
+
+2022-06-13 00:44:06,351 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@order-service
+
