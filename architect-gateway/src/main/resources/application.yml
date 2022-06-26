@@ -29,3 +29,15 @@ spring:
             - Path=/stock/**
           filters:
             - StripPrefix=1
+        - id: oauth-path
+          uri: lb://architect-oauth
+          predicates:
+            - Path=/oauth/**
+          filters:
+            - StripPrefix=1
+
+custom:
+  gateway:
+    loginUrl: /system/user/login
+    ignoreUrlList:
+      - /oauth/**
