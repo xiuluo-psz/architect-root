@@ -1,0 +1,20 @@
+server:
+  port: 10000
+
+spring:
+  application:
+    name: architect-rabbitmq
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+    virtual-host: /
+    listener:
+      simple:
+        acknowledge-mode: manual
+    # 开启发送确认机制，消息达到交换机之后会有回调
+    publisher-confirm-type: correlated
+    # 消息如果没有成功到达队列，触发回调
+    publisher-returns: true
+
