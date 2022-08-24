@@ -156,16 +156,19 @@ public class RabbitmqConfig implements RabbitTemplate.ConfirmCallback, RabbitTem
 
     @Bean
     Binding xiaomiBinding() {
+        // XIAOMI_ROUTING_KEY = "xiaomi.#";
         return BindingBuilder.bind(createTopicXiaomiQueue()).to(createTopicExchange()).with(XIAOMI_ROUTING_KEY);
     }
 
     @Bean
     Binding huaweiBinding() {
+        // HUAWEI_ROUTING_KEY = "huawei.#";
         return BindingBuilder.bind(createTopicHuaweiQueue()).to(createTopicExchange()).with(HUAWEI_ROUTING_KEY);
     }
 
     @Bean
     Binding phoneBinding() {
+        // PHONE_ROUTING_KEY = "#.phone.#";
         return BindingBuilder.bind(createTopicPhoneQueue()).to(createTopicExchange()).with(PHONE_ROUTING_KEY);
     }
 

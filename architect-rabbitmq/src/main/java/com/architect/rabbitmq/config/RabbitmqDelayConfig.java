@@ -22,7 +22,7 @@ public class RabbitmqDelayConfig {
     @Bean
     CustomExchange createDelayExchange() {
         Map<String, Object> args = new HashMap<>();
-        args.put("x-delayed-type", "direct"); // 设置队列消息过期时间
+        args.put("x-delayed-type", "direct");
         return new CustomExchange(DELAY_EXCHANGE_NAME, "x-delayed-message", true, false, args);
     }
 
