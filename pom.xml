@@ -7,6 +7,8 @@
         <module>architect-order</module>
         <module>architect-stock</module>
 <!--        <module>architect-oauth</module>-->
+        <module>architect-rabbitmq</module>
+        <module>architect-kafka</module>
     </modules>
 
     <!-- 依据公司 -->
